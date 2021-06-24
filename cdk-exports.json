@@ -1,0 +1,11 @@
+{
+  "CdkProductsStack": {
+    "UserPoolWebId": "us-east-1_e8msjM6js",
+    "AppSyncAPIKey": "da2-p3lhw3djuvhgpg22zqu6fxl5dy",
+    "UserPoolAppClientId": "b9t2qhvj196190gblakg64omt",
+    "UserPoolWebClientId": "1ap8v815dvbtgss1stbobpbb55",
+    "GraphQLAPIURL": "https://cp3i3npsfrh7ta7zflp6kj4fny.appsync-api.us-east-1.amazonaws.com/graphql",
+    "ProjectRegion": "us-east-1",
+    "UserPoolAppId": "us-east-1_nQzWiey69"
+  }
+}
